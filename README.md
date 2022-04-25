@@ -1,7 +1,7 @@
-# forex-data-pipeline
-A fully functional data pipeline created in Airflow using Spark & Hive to read forex data from an HTTP Api and store the data in a Hive table.
+# Forex Data Pipeline
+A fully functional data pipeline created in **Airflow** using **Spark & Hive** to read forex data from an HTTP Api and store the data in a Hive table.
 
-# Operators Used:
+**Operators Used:**
 HttpSensorOperator
 FileSensorOperator
 PythonOperator
